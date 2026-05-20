@@ -120,4 +120,4 @@ The live Streamlit dashboard shows:
 ## 👤 Author
 
 **Sri Srujan Hari T**
-ECE, BMSIT&M | 2025–Present
+BS in Electronic Systems| IITM | 2025–Present
